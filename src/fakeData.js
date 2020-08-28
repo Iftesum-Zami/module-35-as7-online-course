@@ -1,10 +1,10 @@
 const CourseData=[
     {
         id:1,
-        title:"PHP MySQL & CodeIgniter Course: Complete Guide",
-        description:"Learn to build Dynamic Web Applications from Scratch with PHP MySQL & CodeIgniter",
-        price:11,
-        img:"https://i.imgur.com/67E2kCN.jpg"
+        title:"Web development: Beginners guide to basics (HTML/CSS/JS)",
+        description:"Let me teach you what you need to know to start your venture into web development. ",
+        price:17,
+        img:"https://i.imgur.com/m6KWAb4.jpg"
     },
     {
         id:2,
@@ -15,10 +15,10 @@ const CourseData=[
     },
     {
         id:3,
-        title:"Web development: Beginners guide to basics (HTML/CSS/JS)",
-        description:"Let me teach you what you need to know to start your venture into web development. ",
-        price:17,
-        img:"https://i.imgur.com/m6KWAb4.jpg"
+        title:"Let's JavaScript! Newbie Friendly",
+        description:"Coding for beginner's. Code a calculator",
+        price:13,
+        img:"https://i.imgur.com/EhDtnNe.png"
     },
     {
         id:4,
@@ -78,10 +78,10 @@ const CourseData=[
     },
     {
         id:12,
-        title:"Let's JavaScript! Newbie Friendly",
-        description:"Coding for beginner's. Code a calculator",
-        price:13,
-        img:"https://i.imgur.com/EhDtnNe.png"
+        title:"PHP MySQL & CodeIgniter Course: Complete Guide",
+        description:"Learn to build Dynamic Web Applications from Scratch with PHP MySQL & CodeIgniter",
+        price:11,
+        img:"https://i.imgur.com/67E2kCN.jpg"
     }
 ]
 export default CourseData;

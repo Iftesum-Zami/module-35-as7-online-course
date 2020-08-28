@@ -1,0 +1,18 @@
+.course-container{
+    display: flex;
+    border-radius: 10px;
+    background-color: lightsalmon;
+    margin-top: 10px;
+    padding: 5px 10px;
+}
+
+.course-description{
+    padding: 1%;
+}
+
+.course-img{
+    padding: 1%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

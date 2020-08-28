@@ -1,3 +1,18 @@
+.full-area{
+  display: flex;
+  background-color: rgba(144, 238, 191, 0.753);
+}
+
+.course-area{
+  width: 70%;
+  margin-left: 10%;
+}
+
+.cart-area{
+  width: 30%;
+  margin-left: 2%;
+}
+
 .App {
   text-align: center;
 }
